@@ -13,8 +13,14 @@
 
   ---
 
-  **Difference between Linked List and Array**
+  ## **Difference between Linked List and Array**
 
   <img src="https://miro.medium.com/max/3572/1*Lnb0IARMGORn_c-gYf-24g.png" alt="Linked List vs Array" style="width:900px; display: block;
+  margin-left: auto;
+  margin-right: auto;"/>
+
+## **Insertion in array vs linkedlist**
+
+<img src="https://s3-us-west-2.amazonaws.com/ib-assessment-tests/problem_images/array-vs-ll.png" alt="Insertion in array vs linkedlist" style="width:900px; display: block;
   margin-left: auto;
   margin-right: auto;"/>
