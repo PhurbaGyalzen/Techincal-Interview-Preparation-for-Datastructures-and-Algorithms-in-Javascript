@@ -12,3 +12,9 @@
   <p style= "text-align: center;">linked list</p>
 
   ---
+
+  **Difference between Linked List and Array**
+
+  <img src="https://miro.medium.com/max/3572/1*Lnb0IARMGORn_c-gYf-24g.png" alt="Linked List vs Array" style="width:900px; display: block;
+  margin-left: auto;
+  margin-right: auto;"/>
