@@ -57,7 +57,7 @@ Examples of non-linear data structures are trees and graphs.
   margin-left: auto;
   margin-right: auto;"/>
 
-6. ### **Array**
+6. ### **Tree**
   <img src="https://raw.githubusercontent.com/PhurbaGyalzen/Techincal-Interview-Preparation-for-Datastructures-and-Algorithms-in-Javascript/70e79a1a7366d3af223ccff54f37bbfa53cc5696/Data%20Structure/Media/photo_2022-09-02_10-51-15.jpg" alt="Tree" style="width:600px; display: block;
   margin-left: auto;
   margin-right: auto;"/>
